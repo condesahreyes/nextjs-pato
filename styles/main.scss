@@ -23,12 +23,10 @@
 		boxModel: 'border'
 	));
 
-// Base.
 
 	@import 'base/page';
 	@import 'base/typography';
 
-// Component.
 
 	@import 'components/form';
 	@import 'components/box';
@@ -38,7 +36,6 @@
 	@import 'components/table';
 	@import 'components/button';
 
-// Layout.
 
 	@import 'layout/bg';
 	@import 'layout/wrapper';
